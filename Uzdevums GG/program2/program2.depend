@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1684833468 source:c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program2\functions.cpp
+	"header.h"
+	<iostream>
+
+1684828394 c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program2\header.h
+
+1684833479 source:c:\users\richa\onedrive\desktop\lu1\uzdevums gg\unit-testing\main.cpp
+	<iostream>
+	"../program1/header.h"
+	<cassert>
+
+1684787235 c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program1\functions.cpp
+	"header.h"
+	<iostream>
+
+1684785552 c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program1\header.h
+

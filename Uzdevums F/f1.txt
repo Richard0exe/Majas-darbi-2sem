@@ -1,0 +1,6 @@
+Simbols 'a' parādās failā 1 reizes
+Simbols 'c' parādās failā 1 reizes
+Simbols 'd' parādās failā 1 reizes
+Simbols 'i' parādās failā 1 reizes
+Simbols 'r' parādās failā 5 reizes
+Simbols 's' parādās failā 1 reizes

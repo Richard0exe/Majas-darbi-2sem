@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684828484 source:c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program1\functions.cpp
+	"header.h"
+	<iostream>
+
+1684785552 c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program1\header.h
+
+1684828355 source:c:\users\richa\onedrive\desktop\lu1\uzdevums gg\program1\main.cpp
+	"header.h"
+	<iostream>
+
